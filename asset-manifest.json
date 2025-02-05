@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Interior_website/static/css/main.f6fc472a.css",
+    "main.js": "/Interior_website/static/js/main.0e238dd7.js",
+    "static/media/background.jpg": "/Interior_website/static/media/background.5850241265063e39abaf.jpg",
+    "static/media/study-room.jpg": "/Interior_website/static/media/study-room.3cc6fcac7e47790624c6.jpg",
+    "static/media/office-room.jpg": "/Interior_website/static/media/office-room.a6e8313dc0f7899f3aa3.jpg",
+    "static/media/dining-room.jpg": "/Interior_website/static/media/dining-room.8c05fd0eb251624b9151.jpg",
+    "static/media/living-room.jpg": "/Interior_website/static/media/living-room.bd6abb5d9e51bcd56a36.jpg",
+    "static/media/bedroom.jpg": "/Interior_website/static/media/bedroom.b0ef913c0cd70752988c.jpg",
+    "static/media/kitchen.jpg": "/Interior_website/static/media/kitchen.7101e9b50540c3de3a0a.jpg",
+    "index.html": "/Interior_website/index.html",
+    "main.f6fc472a.css.map": "/Interior_website/static/css/main.f6fc472a.css.map",
+    "main.0e238dd7.js.map": "/Interior_website/static/js/main.0e238dd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6fc472a.css",
+    "static/js/main.0e238dd7.js"
+  ]
+}
